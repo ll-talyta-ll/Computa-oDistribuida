@@ -1,4 +1,6 @@
 //Talyta Scaramuzzo - 32079915
+//Guilherme Rodrigues Santos - 32012209
+//Victor De Marqui - 32014287
 
 #include "mpi.h"
 #include <math.h>
